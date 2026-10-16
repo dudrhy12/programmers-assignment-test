@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Kim",
+    "post_count": 15,
+    "age": 25
+  },
+  {
+    "id": 2,
+    "name": "Lee",
+    "post_count": 32,
+    "age": 30
+  },
+  {
+    "id": 3,
+    "name": "Park",
+    "post_count": 8,
+    "age": 22
+  },
+  {
+    "id": 4,
+    "name": "Choi",
+    "post_count": 32,
+    "age": 28
+  },
+  {
+    "id": 5,
+    "name": "Jung",
+    "post_count": 21,
+    "age": 25
+  }
+]
